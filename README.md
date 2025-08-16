@@ -1,6 +1,6 @@
 ## An introduction
 
-Hi there. I'm Adam "BSSDRVN" Nordquist, data scientist and local trivia knower. I'm a data scientist continually driving towards results, leveraging incredible adaptability and relentless efficiency to predict the future using computing and statistics.
+Hi there. I'm Adam "BSSDRVN" Nordquist, aspiring data scientist and local trivia knower. I'm currently a data analyst continually driving towards results, leveraging incredible adaptability and relentless efficiency to predict the future using computing and statistics.
 
 ## Education
 

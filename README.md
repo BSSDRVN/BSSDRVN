@@ -8,7 +8,7 @@ Hi there. I'm Adam "BSSDRVN" Nordquist, aspiring data scientist and local trivia
 
 ## Tech Stack / Competencies
 ### Programming Languages  
-![R](https://img.shields.io/badge/R-Regression%2C%20Bayesian%2C%20Analysis%2C%20Visualization-16DF9F?style=flat&logo=r&logoColor=white&labelColor=276DC3&color=124E78) 
+![R](https://img.shields.io/badge/R-Regression%2C%20Bayesian%2C%20Analysis%2C%20Visualization%2C%20Classification-16DF9F?style=flat&logo=r&logoColor=white&labelColor=276DC3&color=124E78) 
 
 ![Python](https://img.shields.io/badge/Python-Machine%20Learning%20(ML)-3776AB?style=flat&logo=python&logoColor=white&labelColor=3776AB&color=2D608B) ![SQL](https://img.shields.io/badge/SQL-Database%20Querying-4479A1?style=flat&logo=sqlite&logoColor=white&labelColor=4479A1&color=3C6C90)
 

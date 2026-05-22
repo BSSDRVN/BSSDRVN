@@ -2,9 +2,11 @@
 
 Hi there. I'm Adam "BSSDRVN" Nordquist, aspiring data scientist and local trivia knower. I'm currently a data analyst continually driving towards results, leveraging incredible adaptability and relentless efficiency to predict the future using computing and statistics.
 
-## Education
+## Education + Certifications
 
 **BA in Statistics** from Gustavus Adolphus College, minor in Economics
+
+Microsoft **PL-300** Certified: Power BI Data Analyst Associate ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
 ## Tech Stack / Competencies
 ### Programming Languages  
@@ -21,7 +23,7 @@ Hi there. I'm Adam "BSSDRVN" Nordquist, aspiring data scientist and local trivia
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)  ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-EC8209?style=flat&logo=scikitlearn&logoColor=white)  ![Seaborn](https://img.shields.io/badge/Seaborn-47B8B1?style=flat)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)  
 
 ### Cloud + Platforms  
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)  ![Snowflake](https://img.shields.io/badge/Snowflake-56B9EB?style=flat&logo=snowflake&logoColor=white) ![M365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=flat&logo=metrodeparis&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)  ![Snowflake](https://img.shields.io/badge/Snowflake-56B9EB?style=flat&logo=snowflake&logoColor=white) ![M365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=flat&logo=metrodeparis&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ### AI + Productivity  
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=flat&logo=openai&logoColor=white)  ![Claude](https://img.shields.io/badge/Claude-343541?style=flat&logo=anthropic&logoColor=white)  ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-1DBF73?style=flat&logo=github&logoColor=white) ![Microsoft Copilot](https://img.shields.io/badge/Microsoft%20Copilot-D83B01?style=flat)
